@@ -1,0 +1,434 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+  m_Name: SourceHanSansSC-Normal SDF
+  m_EditorClassIdentifier: 
+  hashCode: 1955701130
+  material: {fileID: 3583316769270840703}
+  materialHashCode: -1291110422
+  m_Version: 1.1.0
+  m_SourceFontFileGUID: 570624123ec91c144aff67e3e65aeb1f
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 570624123ec91c144aff67e3e65aeb1f, type: 3}
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 0
+  m_FaceInfo:
+    m_FaceIndex: 0
+    m_FamilyName: Source Han Sans SC
+    m_StyleName: Normal
+    m_PointSize: 16
+    m_Scale: 1
+    m_UnitsPerEM: 1000
+    m_LineHeight: 23.168
+    m_AscentLine: 18.56
+    m_CapLine: 12
+    m_MeanLine: 9
+    m_Baseline: 0
+    m_DescentLine: -4.608
+    m_SuperscriptOffset: 18.56
+    m_SuperscriptSize: 0.5
+    m_SubscriptOffset: -4.608
+    m_SubscriptSize: 0.5
+    m_UnderlineOffset: -2.4
+    m_UnderlineThickness: 0.8
+    m_StrikethroughOffset: 3.6
+    m_StrikethroughThickness: 0.8
+    m_TabWidth: 4
+  m_GlyphTable:
+  - m_Index: 10954
+    m_Metrics:
+      m_Width: 14.640625
+      m_Height: 13.71875
+      m_HorizontalBearingX: 0.671875
+      m_HorizontalBearingY: 12.375
+      m_HorizontalAdvance: 16
+    m_GlyphRect:
+      m_X: 24
+      m_Y: 3
+      m_Width: 16
+      m_Height: 15
+    m_Scale: 1
+    m_AtlasIndex: 0
+    m_ClassDefinitionType: 0
+  - m_Index: 11381
+    m_Metrics:
+      m_Width: 14.40625
+      m_Height: 14.421875
+      m_HorizontalBearingX: 0.640625
+      m_HorizontalBearingY: 13.15625
+      m_HorizontalAdvance: 16
+    m_GlyphRect:
+      m_X: 3
+      m_Y: 45
+      m_Width: 16
+      m_Height: 16
+    m_Scale: 1
+    m_AtlasIndex: 0
+    m_ClassDefinitionType: 0
+  - m_Index: 17299
+    m_Metrics:
+      m_Width: 14.15625
+      m_Height: 13.828125
+      m_HorizontalBearingX: 1.09375
+      m_HorizontalBearingY: 12.546875
+      m_HorizontalAdvance: 16
+    m_GlyphRect:
+      m_X: 24
+      m_Y: 23
+      m_Width: 15
+      m_Height: 15
+    m_Scale: 1
+    m_AtlasIndex: 0
+    m_ClassDefinitionType: 0
+  - m_Index: 18519
+    m_Metrics:
+      m_Width: 14.703125
+      m_Height: 14.734375
+      m_HorizontalBearingX: 0.609375
+      m_HorizontalBearingY: 13.390625
+      m_HorizontalAdvance: 16
+    m_GlyphRect:
+      m_X: 3
+      m_Y: 24
+      m_Width: 16
+      m_Height: 16
+    m_Scale: 1
+    m_AtlasIndex: 0
+    m_ClassDefinitionType: 0
+  - m_Index: 23281
+    m_Metrics:
+      m_Width: 14.671875
+      m_Height: 14.546875
+      m_HorizontalBearingX: 0.6875
+      m_HorizontalBearingY: 13.46875
+      m_HorizontalAdvance: 16
+    m_GlyphRect:
+      m_X: 3
+      m_Y: 3
+      m_Width: 16
+      m_Height: 16
+    m_Scale: 1
+    m_AtlasIndex: 0
+    m_ClassDefinitionType: 0
+  - m_Index: 27688
+    m_Metrics:
+      m_Width: 15.0625
+      m_Height: 14.234375
+      m_HorizontalBearingX: 0.453125
+      m_HorizontalBearingY: 13.375
+      m_HorizontalAdvance: 16
+    m_GlyphRect:
+      m_X: 45
+      m_Y: 3
+      m_Width: 16
+      m_Height: 15
+    m_Scale: 1
+    m_AtlasIndex: 0
+    m_ClassDefinitionType: 0
+  m_CharacterTable:
+  - m_ElementType: 1
+    m_Unicode: 20876
+    m_GlyphIndex: 10954
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 21151
+    m_GlyphIndex: 11381
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 24405
+    m_GlyphIndex: 17299
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 25104
+    m_GlyphIndex: 18519
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 27880
+    m_GlyphIndex: 23281
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 30331
+    m_GlyphIndex: 27688
+    m_Scale: 1
+  m_AtlasTextures:
+  - {fileID: 4517457627048072234}
+  m_AtlasTextureIndex: 0
+  m_IsMultiAtlasTexturesEnabled: 0
+  m_ClearDynamicDataOnBuild: 0
+  m_UsedGlyphRects:
+  - m_X: 0
+    m_Y: 0
+    m_Width: 21
+    m_Height: 21
+  - m_X: 0
+    m_Y: 21
+    m_Width: 21
+    m_Height: 21
+  - m_X: 0
+    m_Y: 42
+    m_Width: 21
+    m_Height: 21
+  - m_X: 21
+    m_Y: 0
+    m_Width: 21
+    m_Height: 20
+  - m_X: 42
+    m_Y: 0
+    m_Width: 21
+    m_Height: 20
+  - m_X: 21
+    m_Y: 20
+    m_Width: 20
+    m_Height: 20
+  m_FreeGlyphRects:
+  - m_X: 21
+    m_Y: 40
+    m_Width: 42
+    m_Height: 23
+  - m_X: 41
+    m_Y: 20
+    m_Width: 22
+    m_Height: 43
+  m_fontInfo:
+    Name: 
+    PointSize: 0
+    Scale: 0
+    CharacterCount: 0
+    LineHeight: 0
+    Baseline: 0
+    Ascender: 0
+    CapHeight: 0
+    Descender: 0
+    CenterLine: 0
+    SuperscriptOffset: 0
+    SubscriptOffset: 0
+    SubSize: 0
+    Underline: 0
+    UnderlineThickness: 0
+    strikethrough: 0
+    strikethroughThickness: 0
+    TabWidth: 0
+    Padding: 0
+    AtlasWidth: 0
+    AtlasHeight: 0
+  atlas: {fileID: 0}
+  m_AtlasWidth: 64
+  m_AtlasHeight: 64
+  m_AtlasPadding: 2
+  m_AtlasRenderMode: 4165
+  m_glyphInfoList: []
+  m_KerningTable:
+    kerningPairs: []
+  m_FontFeatureTable:
+    m_GlyphPairAdjustmentRecords: []
+  fallbackFontAssets: []
+  m_FallbackFontAssetTable: []
+  m_CreationSettings:
+    sourceFontFileName: 
+    sourceFontFileGUID: 570624123ec91c144aff67e3e65aeb1f
+    pointSizeSamplingMode: 0
+    pointSize: 16
+    padding: 2
+    packingMode: 0
+    atlasWidth: 64
+    atlasHeight: 64
+    characterSetSelectionMode: 8
+    characterSequence: "\u6CE8\u518C\u6210\u529F\r\n\u767B\u5F55"
+    referencedFontAssetGUID: 
+    referencedTextAssetGUID: 71314bb801f6f224fa52a22114031c04
+    fontStyle: 0
+    fontStyleModifier: 0
+    renderMode: 4165
+    includeFontFeatures: 0
+  m_FontWeightTable:
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  fontWeights: []
+  normalStyle: 0
+  normalSpacingOffset: 0
+  boldStyle: 0.75
+  boldSpacing: 7
+  italicStyle: 35
+  tabSize: 10
+--- !u!21 &3583316769270840703
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SourceHanSansSC-Normal SDF Material
+  m_Shader: {fileID: 4800000, guid: 68e6db2ebdc24f95958faec2be5558d6, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FaceTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 4517457627048072234}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OutlineTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Ambient: 0.5
+    - _Bevel: 0.5
+    - _BevelClamp: 0
+    - _BevelOffset: 0
+    - _BevelRoundness: 0
+    - _BevelWidth: 0
+    - _BumpFace: 0
+    - _BumpOutline: 0
+    - _ColorMask: 15
+    - _CullMode: 0
+    - _Diffuse: 0.5
+    - _FaceDilate: 0
+    - _FaceUVSpeedX: 0
+    - _FaceUVSpeedY: 0
+    - _GlowInner: 0.05
+    - _GlowOffset: 0
+    - _GlowOuter: 0.05
+    - _GlowPower: 0.75
+    - _GradientScale: 3
+    - _LightAngle: 3.1416
+    - _MaskSoftnessX: 0
+    - _MaskSoftnessY: 0
+    - _OutlineSoftness: 0
+    - _OutlineUVSpeedX: 0
+    - _OutlineUVSpeedY: 0
+    - _OutlineWidth: 0
+    - _PerspectiveFilter: 0.875
+    - _Reflectivity: 10
+    - _ScaleRatioA: 0.6666667
+    - _ScaleRatioB: 0.5416667
+    - _ScaleRatioC: 0.5416667
+    - _ScaleX: 1
+    - _ScaleY: 1
+    - _ShaderFlags: 0
+    - _Sharpness: 0
+    - _SpecularPower: 2
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _TextureHeight: 64
+    - _TextureWidth: 64
+    - _UnderlayDilate: 0
+    - _UnderlayOffsetX: 0
+    - _UnderlayOffsetY: 0
+    - _UnderlaySoftness: 0
+    - _VertexOffsetX: 0
+    - _VertexOffsetY: 0
+    - _WeightBold: 0.75
+    - _WeightNormal: 0
+    m_Colors:
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+    - _EnvMatrixRotation: {r: 0, g: 0, b: 0, a: 0}
+    - _FaceColor: {r: 1, g: 1, b: 1, a: 1}
+    - _GlowColor: {r: 0, g: 1, b: 0, a: 0.5}
+    - _MaskCoord: {r: 0, g: 0, b: 32767, a: 32767}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ReflectFaceColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ReflectOutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
+    - _UnderlayColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_BuildTextureStacks: []
+--- !u!28 &4517457627048072234
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SourceHanSansSC-Normal SDF Atlas
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 2
+  m_Width: 64
+  m_Height: 64
+  m_CompleteImageSize: 4096
+  m_MipsStripped: 0
+  m_TextureFormat: 1
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 0
+    m_WrapV: 0
+    m_WrapW: 0
+  m_LightmapFormat: 0
+  m_ColorSpace: 0
+  m_PlatformBlob: 
+  image data: 4096
+  _typelessdata: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000061506000b0b0b0b0b0b0b0b0b0b0000000000001019101019190f180d10191f1b120000000000000b173a3a3a3a3a3a3a3a3a3a3a3a3a3a170d0000000008222840281c3535353535353535353521180000001332443233444331423032444a46361c040000000b2e416464646464646464646464646464422f0d000000224456654047606060606060606060604b3b18001336466e44446f6e606d4c446f757150401c00000017416c8f8f8f8e8f8e8e8e8e8e8e8f8f8f6d42170000012c56807c5172898a8a8a8a8a898a8a88764b21001c46718f696b8d908a8879527d8a927b50260000000b2e436d6d6d6d88796e6e80866d6d6d6d644015000000214b76926d6b767575768289777575766e44190013365f897c52636c967b8b6052608081572c020000000e3143434972916c4e4e6d9272474343402806000000183c5b8683584b4b4b527d865c4b4b4b4432100000224d788b60426c9869936e43557f81572c02000000000e1e49757e8279787879847f71461b150600000000001a446f9271452828527d875c322820191000000017416c946c426c966a89784d557f81572c020000000007305b85898282828282828f7c52270000000000000010335680855b5252527d855c52524737140000000b2d638e71476c946a837d53557f81572c020000001829405b857d58585858585e877c52351d1400000000000018426b806c7d7d7d868b7d7d7d73471d00000119335e88774c6c946a7e8258557f81572c190100183b4b6b5b85837877777777788a7c52604838140000000916304354566b828382898e828382764a1f0000193d4d6a837d6a6a946a7a876a6a7f816a4d3d1900214b768d767c848484848484848477738974481d0000092b40516d7f66425858587d855c58584a3a160000224d7794959596949e9495979595959694784d2200183b4c788e8367696b6b6b6b686781927e69411700001640677c90856c423232527d875c323231260c00001640666a80816b6e946a798b6a6b80826a6840160000183c4c6c87898d919191918e878b7053412d0b000018436d84745b42545c5c5c7d855c5c5c5b48260000082a40547f81566c986a758b61557f8157402a0800000f32436e8a8b876466666685898c7854421f0000000e31435b4939547e8687858d90858787855b31060000082a547f81566c946a758b61557f81572c0800000019436e8d796b8d7e53527d8f6a6e8b7e5429000000000e1833445b707579797a7b8a7c79797a4f24000000002a547f805c6b986a758b615c7f81572c0200000017416c726f6f78926d70918585696c71461b000000001539496f868f6a4f4f4f788e664f4f4f3e1b000000002a547f8d8587976a769286858c81572c02000000214c778b8c8b8b8b77847e5c7f8a6a463512000000001e497391816c422d416b8d7a4e2924241b02000000001d47737a7a7a7b4f6f7a7a7a7a75481e00000000183c4c62626262624b746941556f442b1200000000001539496d57422f174169784e3e1a00000000000000001437475050504f3f44505050504839150000000000182137373737373949412c334433100000000000000015314331180d0b2d414d3d1a02000000000000000000141d252525251b19252525251e1500000000000000000d0d0d0d00161e160a1019100000000000000000000e180e0000000b17231a0100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000141d211d140000000000000000000000000000000000000000000000000000000000000000000000101a100000000b170b0000000f190f00000000000a160a1438484b47371e0500141d271d0500000000000000000000000000000000000000000000000000001533443310021b2d412d16121b324332260c00000a2c412c254874767252411e1b374751411d000000000000000000000000000000000000000000000000001539496f442d1b3f4f6c4a3a3546636e5c4826000016416a6250588385907d5234455e727c512f0d0000000000000000000000000000000000000000000000001e49749069413b4f798e765146718d95855c300d002f5a848c7a6b585b8181574a708893846c42170000000000000000000000000000000000000000000000001540678d7b516666677e957c698c826c916d421800164169798a91806e8181577694806d5a422f0d0000000000000000000000000000000000000000000000000628537d8772909083597592878d675f8873491e000a2c414e5f7282918f81728e75564230170d00000000000000000000000000000000000000000000000000001e4873916a6d6f946f4973957f55557f71461b00001134455e7e816b86858e8d826745351200000000000000000000000000000000000000000000000000000019436e956b43638d73496d94906d425546351200091a4570878a715781a67d6c838a71451b0a000000000000000000000000000000000000000000000000000016406b956e43618b764c778a848459361b1200002245577c7e6a5a5a818b675a5a7e7f5a412c0a00000000000000000000000000000000000000000000000000082a689372586089775681826f9271461c0000002d578284848384838c8c84848384838469411600000000000000000000000000000000000000000000000000003b66908683828f785d887b588382582e0b0000224d7979797979797979797980907a7a6b401600000000000000000000000000000000000000000000000000113b6690817c7c7c72628d754b73936c41170000193d4d6a6d6d6d6d6d6d6d6e7890664e402b0900000000000000000000000000000000000000000000000000113b669073525252516792715151726a43310e0001234d7891919191919191929293692b16090000000000000000000000000000000000000000000000000000113b6690817c7b7b7b7da77d7b7b7b7c6d431800001d415167676767676767676f966b4116000000000000000000000000000000000000000000000000000000032e588285858585858796858585878570451a000027517d7f7f7f7f7f7f7f7f81976d4218000000000000000000000000000000000000000000000000000000002346585b5b5b5b5b729267677d906e453411000027517d7f7f7f7f7f7f7f7f7f806b4217000000000000000000000000000000000000000000000000000000000a232e303030304873916c8c87704432110000001d415155555555555555555556422f0c0000000000000000000000000000000000000000000000000000000000000306060619436e794f715d44331100000000051d272a2a2a2a2a2a2a2a2a2b170c00000000000000000000000000000000000000000000000000000000000000000000000f32434f3e45351a1100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000f19241b1b1200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000f190f00000d171a1a1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000f314331170d2f42444433160a00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000729436e5a412d426c6f6f62412c0a000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a161916406b8c856942628c92968b6841160000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a2c41443229446f898a6b4262676a8f784d230000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001641696e62574b4467898258382d598480562b0100000000000000000000000000000000000000000000000000000000000000000000000000000000000000001f4a74968d81756a5d7194734828537d855b30060000000000000000000000000000000000000000000000000000000000000000000000000000000000000000163a4a6d798e9194876881845a284e79895f340a0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001630425f88796f7b4f749068404b758c62370d000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000d345f89774d4f406991724848738f643a0f000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a345f89774d25295f8a794e467091673c00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a345f89774d424d5a847e534d6f95692b090000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000f19345f89774d6c7879858678777a956b401600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000f3243565f8878567287878d90878988876a4117000000000000000000000000000000000000000000000000000000000000000000000000000000000000000019436e80818f87817a5e5e7d845e5e5e5e412d0b000000000000000000000000000000000000000000000000000000000000000000000000000000000000000018436d7f7f7f7f7f7a4e517c865c343434170b0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000e314354545454544e3e517c855c3209090000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000e182a2a2a2a2a2418426c6f441a000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000d304244331000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000d181a100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
